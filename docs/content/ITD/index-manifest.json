@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-06T22:59:45+00:00",
+  "entries": {
+    "profile.md": {
+      "sha256": "449a82849ce729ac8993d06971885d11a5e7095413b8a352c7406246832db86b",
+      "status": "graphify_indexed",
+      "kind": "profile",
+      "heading_count": 12,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "company.md": {
+      "sha256": "9771b46202bea9c890a495414936e72166ba710382170db5366f0cab7194fe4f",
+      "status": "graphify_indexed",
+      "kind": "company",
+      "heading_count": 7,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "modelo:common/structure/model1.md": {
+      "sha256": "5b91217e970e09aee5e13f706f461fd97fe602551f8cdf74bcba488719e191fb",
+      "status": "graphify_indexed",
+      "kind": "structure",
+      "source": "common/structure/model1.md",
+      "index_md": "graphify-out/_corpus/structure.md",
+      "heading_count": 10,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "docs/S01/Cómo pensar (y trabajar) como un innovador Design  3cfebabb843a808eb1cfc589780c65ef.md": {
+      "sha256": "9055fc09995a5663130cd9b58b006ed9352e6bf2f9ed2ba1280e14f2e20fe6e8",
+      "status": "graphify_indexed",
+      "kind": "note",
+      "index_md": "docs/S01/Cómo pensar (y trabajar) como un innovador Design  3cfebabb843a808eb1cfc589780c65ef.md",
+      "heading_count": 6,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "docs/S02/Metodolog├нas de Innovaci├│n Design Thinking, Lean S 3cfebabb843a8048b6dac8e7af44959c.md": {
+      "sha256": "03ecd52184090592cd8bd243912a7d43a8f21ca052ca9bb88e8b129a2099ff58",
+      "status": "graphify_indexed",
+      "kind": "note",
+      "index_md": "docs/S02/Metodolog├нas de Innovaci├│n Design Thinking, Lean S 3cfebabb843a8048b6dac8e7af44959c.md",
+      "heading_count": 20,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "docs/S03/Lean Canvas y FODA dos mapas para pensar tu negoci 3cfebabb843a8013b6e7cec7d07f1fc2.md": {
+      "sha256": "2449ac3f5090e1a30a45912849f69e08f3156c4e306bcfca18214847d64c08c9",
+      "status": "graphify_indexed",
+      "kind": "note",
+      "index_md": "docs/S03/Lean Canvas y FODA dos mapas para pensar tu negoci 3cfebabb843a8013b6e7cec7d07f1fc2.md",
+      "heading_count": 9,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/as-is-to-be.md": {
+      "sha256": "dbe171e566747e81ddf97d7f0894df207a77e803f51996c2f500162ad1415ddd",
+      "status": "graphify_indexed",
+      "kind": "mvp",
+      "mvp_n": 1,
+      "index_md": "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/as-is-to-be.md",
+      "heading_count": 8,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/design-thinking.md": {
+      "sha256": "cacdbe06239e4ce1a4f406f4563128dcc8a0512edb80f440fb84dca1a4e8c572",
+      "status": "graphify_indexed",
+      "kind": "mvp",
+      "mvp_n": 1,
+      "index_md": "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/design-thinking.md",
+      "heading_count": 18,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/foda.md": {
+      "sha256": "ff2accd48146df1c050d333cb7a2e80e76d12399ef3f77bb29abe4dc06479873",
+      "status": "graphify_indexed",
+      "kind": "mvp",
+      "mvp_n": 1,
+      "index_md": "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/foda.md",
+      "heading_count": 4,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/lean-canvas.md": {
+      "sha256": "b4e35de59d39a9d76403468a49cd591344411a891897fd191c7dca05755a2811",
+      "status": "graphify_indexed",
+      "kind": "mvp",
+      "mvp_n": 1,
+      "index_md": "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/lean-canvas.md",
+      "heading_count": 6,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/rat.md": {
+      "sha256": "644c9d3c245bfdf299d00b54f786fbdc4f21caff7623931439b856b469299d38",
+      "status": "graphify_indexed",
+      "kind": "mvp",
+      "mvp_n": 1,
+      "index_md": "mvp/mvp-1-fuente-unica-de-producto-taxonomia-sku-piloto/rat.md",
+      "heading_count": 7,
+      "updated_at": "2026-09-06T22:44:49+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "bibliography/auto/docs.md": {
+      "sha256": "974646e3c29a1553303fd37f830681951a88e4ab5c6ec91dd71842211270da03",
+      "status": "graphify_indexed",
+      "kind": "bib_auto_index",
+      "index_md": "bibliography/auto/docs.md",
+      "heading_count": 4,
+      "updated_at": "2026-09-06T22:50:47+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "bibliography/docs/bozic-2024-product-master-data-quality-logistics.md": {
+      "sha256": "a78e7a162f3e29af8c148c69b84efaeddf90739f787e9c9c1ad7ca1f35212d7f",
+      "status": "graphify_indexed",
+      "kind": "bib_auto",
+      "index_md": "bibliography/docs/bozic-2024-product-master-data-quality-logistics.md",
+      "heading_count": 25,
+      "updated_at": "2026-09-06T22:50:47+00:00",
+      "source_pdf": "bibliography/auto/pdfs/bozic-2024-product-master-data-quality-logistics.pdf",
+      "technique": "section-chunks + finding-hooks + es-aliases",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "bibliography/docs/ghosh-2026-footwear-catalog-taxonomy-attributes.md": {
+      "sha256": "6f7b05030c690de57dd26ef24cfc743261064e08118455d6c3af4d9aeaff93df",
+      "status": "graphify_indexed",
+      "kind": "bib_auto",
+      "index_md": "bibliography/docs/ghosh-2026-footwear-catalog-taxonomy-attributes.md",
+      "heading_count": 48,
+      "updated_at": "2026-09-06T22:50:47+00:00",
+      "source_pdf": "bibliography/auto/pdfs/ghosh-2026-footwear-catalog-taxonomy-attributes.pdf",
+      "technique": "section-chunks + finding-hooks + es-aliases",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "bibliography/docs/spruit-2014-md3m-master-data-maturity.md": {
+      "sha256": "487781badacd18232cb897bb87524251cfa9813d3c9bd038baf6e9bd2fb3db6f",
+      "status": "graphify_indexed",
+      "kind": "bib_auto",
+      "index_md": "bibliography/docs/spruit-2014-md3m-master-data-maturity.md",
+      "heading_count": 20,
+      "updated_at": "2026-09-06T22:50:47+00:00",
+      "source_pdf": "bibliography/auto/pdfs/spruit-2014-md3m-master-data-maturity.pdf",
+      "technique": "section-chunks + finding-hooks + es-aliases",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "docs/v1-capitulo-1/draft.md": {
+      "sha256": "9c62e30bdad7326771245072ff834d13942a29fc328685442a5b7d6510ecc665",
+      "status": "graphify_indexed",
+      "kind": "note",
+      "index_md": "docs/v1-capitulo-1/draft.md",
+      "heading_count": 6,
+      "updated_at": "2026-09-06T22:55:39+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "docs/v1-capitulo-1/reporte-debate.md": {
+      "sha256": "eb0a6bce4ccbf24bf045cf84dc11947ff2d18e4148e5c8738d5a63e6ff4476fd",
+      "status": "graphify_indexed",
+      "kind": "note",
+      "index_md": "docs/v1-capitulo-1/reporte-debate.md",
+      "heading_count": 10,
+      "updated_at": "2026-09-06T22:59:44+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    },
+    "docs/v1-capitulo-1/reporte.md": {
+      "sha256": "b4c4ac83bcaa6c33b4182ad9416916a1f41028c5ba6eca9c3438dcb330e28f9d",
+      "status": "graphify_indexed",
+      "kind": "note",
+      "index_md": "docs/v1-capitulo-1/reporte.md",
+      "heading_count": 6,
+      "updated_at": "2026-09-06T22:59:44+00:00",
+      "graphify_indexed_at": "2026-09-06T22:59:45+00:00"
+    }
+  }
+}

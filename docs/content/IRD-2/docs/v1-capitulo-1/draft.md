@@ -1,0 +1,103 @@
+# Informe de proyecto — IRD-2
+
+## Capítulo 1. Presentación de la empresa
+
+**Tema:** Digitalización del inventario y estandarización de atributos y medidas de producto textil en Romantex S.A.C.
+
+**Versión:** 1 — capítulo 1
+
+**Fecha:** 6 de septiembre de 2026
+
+### 1.1. Presentación de la empresa
+
+#### 1.1.1. Reseña histórica
+
+Romantex S.A.C. es una empresa peruana dedicada a la comercialización de productos para decoración textil y de interiores. De acuerdo con su sitio institucional, la organización se estableció en 1996 y se especializó en telas decorativas, revestimientos murales y accesorios importados para aplicaciones residenciales y comerciales (Romantex, s. f.-a). Su trayectoria se articula alrededor de una oferta de diseño y materiales que atiende tanto necesidades de ambientación doméstica como proyectos profesionales.
+
+La información registral pública complementa esta reseña comercial. UniversidadPeru identifica a ROMANTEX S.A.C. como una sociedad anónima cerrada, con RUC 20293975036, condición activa e inicio de actividades registrado el 1 de octubre de 1995. La misma ficha ubica su dirección legal en la avenida Paz Soldán 185, distrito de San Isidro, Lima, y registra el sitio web corporativo (UniversidadPeru, s. f.). La diferencia entre el inicio de actividades registrado y la referencia institucional a 1996 puede explicarse por la distinción entre constitución o registro y comienzo de la operación comercial comunicada por la marca; ambas fechas se conservan como datos de sus respectivas fuentes.
+
+La empresa mantiene una presencia física en Lima mediante el local de San Isidro y el establecimiento publicado en la avenida El Polo 376, Surco. Su sitio también ofrece canales digitales, solicitud de muestras y datos de contacto, lo que muestra una operación que combina showroom, asesoría y comunicación en línea (Romantex, s. f.-a, s. f.-b). Esta combinación es relevante para el proyecto porque el valor comercial no depende únicamente de exhibir productos, sino de describirlos con precisión, relacionar sus atributos con una aplicación y responder sobre disponibilidad en el momento de la consulta.
+
+En su evolución pública, Romantex ha ampliado la propuesta desde telas decorativas hacia revestimientos murales, pasamanería, cojines y accesorios, además de atender proyectos comerciales mediante una línea Contract. La empresa declara trabajar con productos importados y marcas internacionales, contexto que introduce variedad de nomenclaturas, materiales, colores, medidas y unidades de comercialización (Romantex, s. f.-a; UniversidadPeru, s. f.). El proyecto se concentra en diagnosticar cómo esa diversidad puede representarse mediante un lenguaje común de producto e inventario, sin afirmar que los procesos internos actuales estén desintegrados.
+
+#### 1.1.2. Misión
+
+Romantex no publica en las fuentes consultadas un enunciado formal identificado como misión. Sin embargo, su comunicación institucional presenta una orientación clara hacia la especialización en telas decorativas, revestimientos y accesorios de calidad, con atención a usos residenciales y comerciales. Esta propuesta sitúa el conocimiento del producto y la asesoría como componentes centrales de la relación con el cliente, especialmente cuando la elección depende de composición, textura, color, ancho, aplicación o mantenimiento (Romantex, s. f.-a).
+
+Para el presente proyecto, esa orientación implica que la información de producto no debe tratarse como un registro puramente administrativo. Una ficha incompleta o una unidad de venta ambigua puede afectar la explicación comercial y la preparación de una cotización. Por ello, el diagnóstico propone ordenar los atributos de dos o tres familias prioritarias antes de recomendar una integración tecnológica.
+
+#### 1.1.3. Visión
+
+No se encontró una declaración pública formal de visión. La proyección observable en la comunicación de Romantex se relaciona con mantener una oferta especializada, incorporar productos y diseños importados, y atender proyectos de decoración con una combinación de variedad, asesoría y disponibilidad. La existencia de showrooms en San Isidro y Surco, junto con el catálogo y la solicitud de muestras en línea, evidencia una presencia que conecta experiencia física y contacto digital (Romantex, s. f.-b).
+
+El proyecto traduce esa orientación en una capacidad operativa concreta: que comercial y almacén puedan consultar una misma representación de la variante, con su referencia original, atributos normalizados, unidad de venta, ubicación y estado de validación. Esta formulación es un diseño del proyecto, no una declaración institucional atribuida a Romantex.
+
+#### 1.1.4. Valores
+
+Las fuentes públicas no presentan un listado formal de valores corporativos. No obstante, la propuesta comunicada permite reconocer principios observables de especialización, variedad, atención personalizada, calidad decorativa y aplicación de los productos a proyectos residenciales y comerciales. La línea Contract amplía el campo de atención hacia hoteles, restaurantes y espacios públicos, donde la consistencia de las especificaciones puede ser tan importante como la apariencia del material (Romantex, s. f.-a).
+
+Estos principios se relacionan con el alcance del proyecto de manera específica. La estandarización propuesta no busca homogeneizar artificialmente productos distintos, sino conservar la referencia del proveedor y documentar las reglas con las que se normalizan familia, composición, color, medidas y unidad de venta. Así, la calidad del dato puede sostener la atención personalizada sin eliminar las particularidades del catálogo.
+
+### 1.2. Diagnóstico situacional
+
+#### 1.2.1. Análisis del microentorno (fortalezas y debilidades)
+
+El microentorno de Romantex está compuesto por la empresa, sus equipos comerciales y de almacén, proveedores o marcas internacionales, diseñadores, compradores residenciales y responsables de proyectos Contract. La interacción se produce en locales físicos y mediante canales digitales, con una oferta que reúne telas, revestimientos y accesorios.
+
+| Fortalezas                                                                                                                                                                 | Debilidades o fricciones a diagnosticar                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Especialización pública en decoración textil, revestimientos y accesorios, con una oferta orientada a usos residenciales y comerciales (Romantex, s. f.-a).                | La diversidad de marcas, composiciones, colores, anchos y unidades puede dificultar una descripción uniforme de las variantes; la magnitud de esta fricción debe comprobarse con una muestra de fichas y registros. |
+| Presencia física en San Isidro y Surco, además de catálogo digital y solicitud de muestras (Romantex, s. f.-b).                                                            | La coexistencia de showroom, almacén y canal web puede generar puntos distintos de consulta o actualización; no se presume que ocurra, pero constituye una brecha operativa que el diagnóstico debe observar.       |
+| Atención B2C, B2B y de proyectos Contract, lo que permite relacionar atributos del producto con aplicaciones concretas (Romantex, s. f.-a).                                | Si la autoridad para aprobar nombres, unidades y normalizaciones no está definida, el modelo maestro puede perder vigencia aunque la plantilla sea técnicamente adecuada.                                           |
+| Catálogo de productos importados y marcas internacionales, que puede sostener una propuesta diferenciada de diseño y variedad (Romantex, s. f.-a; UniversidadPeru, s. f.). | Las convenciones del proveedor pueden no coincidir con la nomenclatura interna o con la forma en que el cliente busca el producto; deben distinguirse alias, referencia original y SKU interno.                     |
+
+Las fortalezas describen activos públicos de la organización; las debilidades se expresan como fricciones organizacionales plausibles que deben verificarse, no como fallas ya demostradas. La pregunta operativa central es si una misma variante puede ser reconocida por comercial, almacén y canal digital mediante atributos suficientes y una unidad de venta inequívoca.
+
+#### 1.2.2. Análisis del macroentorno (oportunidades y amenazas)
+
+El macroentorno combina la digitalización del comercio, la necesidad de disponer de información de producto reutilizable y la presión por atender pedidos con mayor visibilidad. En el sector textil, Global Textile Scheme presenta un estándar orientado al intercambio de datos de productos entre fabricantes, proveedores, marcas y retailers, con integración posible a sistemas PDM, PLM, PIM y ERP (Global Textile Scheme, s. f.). Este referente no implica que Romantex deba adoptar dicho estándar, pero confirma que la calidad y traducción de datos son problemas reconocibles en cadenas textiles.
+
+En el plano de soluciones implementadas, Andover Fabrics documenta el uso de Acumatica Distribution integrado con BigCommerce para inventario, gestión de pedidos y catálogo digital en un distribuidor textil de Estados Unidos (Acumatica, 2026). Pittarello documenta otro patrón, basado en OneStock y Shopify Plus, para activar inventario de tiendas, organizar pedidos y conectar puntos físicos con la demanda digital (OneStock, 2026). Ambos casos ofrecen referencias de madurez, aunque su escala y arquitectura no deben trasladarse directamente a Romantex.
+
+| Oportunidades                                                                                                                                                                                                           | Amenazas                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Digitalizar primero los datos maestros puede mejorar la reutilización de fichas en showroom, canal digital y proyectos Contract.                                                                                        | Comprar o construir una integración antes de ordenar los datos puede automatizar duplicidades, equivalencias incorrectas o estados de stock desactualizados.                      |
+| La venta consultiva permite diferenciar una taxonomía orientada a aplicación, composición, medidas y mantenimiento, en lugar de limitarse a una descripción comercial genérica.                                         | La dependencia de nomenclaturas de marcas internacionales puede dificultar la consolidación y aumentar el costo de mantenimiento de un catálogo multimarca.                       |
+| Casos como Andover Fabrics, Pittarello y el estándar Global Textile Scheme muestran patrones para estudiar inventario, catálogo e intercambio de datos (Acumatica, 2026; Global Textile Scheme, s. f.; OneStock, 2026). | Plataformas de escala enterprise pueden introducir costos, complejidad y dependencia tecnológica desproporcionados para un diagnóstico acotado y una organización de escala PYME. |
+| La disponibilidad de canales físicos y digitales permite probar el modelo con una muestra y medir si la consulta mejora antes de ampliar la integración.                                                                | Si los equipos no tienen un responsable claro para validar y actualizar fichas, la información perderá vigencia y la mejora no será sostenible.                                   |
+
+**Implicación para el proyecto / MVP.** El diagnóstico debe empezar por el MVP 1, denominado “Diagnóstico y modelo maestro de producto”. Este entregable trabajará con dos o tres familias, un diccionario de datos, una taxonomía textil, una propuesta de SKU, una plantilla de ficha y una matriz de calidad y responsabilidades. La consulta de disponibilidad por ubicación y los indicadores de reposición se mantienen como fases posteriores, porque dependen de que los atributos y las variantes estén identificados de forma consistente.
+
+### 1.3. Modelo de negocio
+
+#### 1.3.1. Lienzo Lean Canvas
+
+El siguiente lienzo representa el modelo de negocio de Romantex a partir de su oferta y presencia pública. Las formulaciones sobre costos e ingresos se mantienen prudentes porque la empresa no publica estados financieros ni una estructura detallada de precios.
+
+| Problema                                                                                                                                                                                                                                                              | Solución                                                                                                                                                                | Propuesta de valor única                                                                                                                                                                                                                                                                                                      | Ventaja especial                                                                                                                                                                                                          | Segmentos de clientes                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| - Clientes que necesitan seleccionar materiales decorativos con criterios de diseño y aplicación.<br>- Proyectos que requieren coordinar muestras, especificaciones, medidas y disponibilidad.<br>- Complejidad de un catálogo multimarca para comparar alternativas. | - Showrooms y asesoría personalizada.<br>- Catálogo de telas, revestimientos y accesorios importados.<br>- Atención de proyectos residenciales, comerciales y Contract. | Para diseñadores, compradores residenciales y responsables de proyectos que buscan materiales decorativos diferenciados, Romantex es un especialista en telas, revestimientos y accesorios importados que combina variedad, asesoría y contacto físico/digital, a diferencia de una compra basada solo en una ficha genérica. | Especialización contextual en decoración textil, relación entre producto y aplicación, showrooms en Lima y atención de proyectos. La capacidad es valiosa, pero su dificultad de copia no está cuantificada públicamente. | Diseñadores de interiores; clientes residenciales; responsables de hoteles, restaurantes y espacios públicos; compradores de proyectos comerciales; clientes que solicitan muestras. |
+
+| Métricas clave                                                                                                                                                                                                                                                            | Canales                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Solicitudes de muestras; consultas y cotizaciones por familia; conversión de consultas a pedidos; disponibilidad de productos; recurrencia de clientes de proyectos. La empresa no publica valores de estas métricas, por lo que se proponen como indicadores de gestión. | Showrooms de San Isidro y Surco; sitio web; solicitud de muestras; contacto telefónico, correo y redes sociales publicados por la empresa. |
+
+| Estructura de costos                                                                                                                                                                                                          | Flujo de ingresos                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Importación y adquisición de productos; almacenamiento y conservación de materiales; operación de showrooms; personal de asesoría; muestras; logística y atención de pedidos. La distribución exacta de costos no es pública. | Venta de telas decorativas, revestimientos, pasamanería, cojines y accesorios; pedidos asociados a proyectos residenciales y comerciales; soluciones para línea Contract. Los precios, márgenes y condiciones comerciales no se publican. |
+
+**Encaje del proyecto.** El Lean Canvas del MVP no reemplaza este lienzo empresarial. Su función es reducir un riesgo operativo concreto del modelo: si la propuesta comercial depende de variedad y asesoría, una ficha de producto inconsistente puede aumentar el tiempo de respuesta y dificultar la confirmación de una variante. El MVP 1 propone un diccionario de datos, una ficha maestra y una regla de SKU para una muestra limitada. Sus métricas de completitud, duplicidad, tiempo de búsqueda y discrepancia entre registro y muestra servirán para decidir si conviene avanzar hacia una consulta de disponibilidad por ubicación.
+
+## Referencias bibliográficas
+
+Acumatica. (2026). _Andover Fabrics doubles growth with modern cloud ERP_. https://www.acumatica.com/success-stories/andover-fabrics/
+
+Global Textile Scheme. (s. f.). _What is GTS?_ https://www.globaltextilescheme.org/gts-standard/
+
+OneStock. (2026). _How Pittarello drove 58% growth with an omnichannel OMS for fashion retail_. https://www.onestock-retail.com/customer-story/omnichannel-oms-for-fashion-retail-pittarello/
+
+Romantex. (s. f.-a). _Company_. https://www.romantex.com.pe/empresa
+
+Romantex. (s. f.-b). _Romantex_. https://www.romantex.com.pe/
+
+UniversidadPeru. (s. f.). _Romantex S.A.C._ https://www.universidadperu.com/empresas/romantex.php
